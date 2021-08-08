@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="46bc2306-a715-4ec4-89bc-3144e2844e58" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/第一周/2.21-合并两个有序链表.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/第一周/3.283-零移动.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/第一周/4.66-加一.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一周/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +43,7 @@
       <workItem from="1628332702140" duration="722000" />
       <workItem from="1628423157366" duration="833000" />
       <workItem from="1628428314827" duration="735000" />
+      <workItem from="1628431041612" duration="776000" />
     </task>
     <servers />
   </component>
